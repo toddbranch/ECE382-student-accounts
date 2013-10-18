@@ -31,7 +31,7 @@ Link to accounts for ECE382 students.
 - Travis Schriner
 - Jennae Steinmiller
 - Alex Strom
-- Derek Titus
+- [Derek Titus](https://www.githum.com/DerekTitus)
 - Andrew Tymchenko
 
 ## T4
