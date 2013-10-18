@@ -27,7 +27,7 @@ Link to accounts for ECE382 students.
 - Linnea Larson
 - [Trevor Moore](https://github.com/sleeprocking)
 - Geoffrey Novakowski
-- James Rasmussen
+- [James Rasmussen](https://github.com/Jsrazz)
 - Travis Schriner
 -[ Jennae Steinmiller](https://github.com/JennaeN)
 - Alex Strom
