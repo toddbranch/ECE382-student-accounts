@@ -7,7 +7,7 @@ Link to accounts for ECE382 students.
 - [Dr George York](https://www.github.com/GeorgeYork)
 
 ## M4
-- [William Parks](https://www.github.com/WilliamParks)
+- [James Dunn](https://www.github.com/James-Dunner)
 
 ## M7
 
