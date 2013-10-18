@@ -28,7 +28,7 @@ Link to accounts for ECE382 students.
 - [Trevor Moore](https://github.com/sleeprocking)
 - Geoffrey Novakowski
 - [James Rasmussen](https://github.com/Jsrazz)
-- Travis Schriner
+- [Travis Schriner](https://github.com/travisschriner)
 -[ Jennae Steinmiller](https://github.com/JennaeN)
 - Alex Strom
 - Derek Titus
