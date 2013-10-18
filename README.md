@@ -25,7 +25,7 @@ Link to accounts for ECE382 students.
 - Christopher Boulanger
 - Kristen Larson
 - Linnea Larson
-- Trevor Moore
+- [Trevor Moore](https://github.com/sleeprocking)
 - Geoffrey Novakowski
 - James Rasmussen
 - Travis Schriner
