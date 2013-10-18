@@ -14,6 +14,7 @@ Link to accounts for ECE382 students.
 - [Gared Chapman](https://github.com/garedchapman)
 - [Ryan Hub] (https://github.com/rhub92) 
 - [Nik Taormina](https://www.github.com/ntaormina)
+- [Noel Nicolas](https://github.com/noelbnicolas)
 
 ## M7
 
