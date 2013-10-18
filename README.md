@@ -21,7 +21,7 @@ Link to accounts for ECE382 students.
 - [Nik Taormina](https://www.github.com/ntaormina)
 
 ## M7
-- Tramaine Barnett
+- [Tramaine Barnett](https://github.com/lilmaine)
 - Christopher Boulanger
 - Kristen Larson
 - Linnea Larson
