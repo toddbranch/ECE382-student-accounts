@@ -22,7 +22,7 @@ Link to accounts for ECE382 students.
 
 ## M7
 - [Tramaine Barnett](https://github.com/lilmaine)
-- Christopher Boulanger
+- [Christopher Boulanger](https://www.github.com/crboulanger)
 - Kristen Larson
 - Linnea Larson
 - [Trevor Moore](https://github.com/sleeprocking)
