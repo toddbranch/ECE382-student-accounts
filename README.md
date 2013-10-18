@@ -8,6 +8,7 @@ Link to accounts for ECE382 students.
 
 ## M4
 - [William Parks](https://www.github.com/WilliamParks)
+- [Ryan Good](https://github.com/GoodRyan)
 
 ## M7
 
