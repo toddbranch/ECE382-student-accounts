@@ -23,7 +23,7 @@ Link to accounts for ECE382 students.
 ## M7
 - Tramaine Barnett
 - Christopher Boulanger
-- Kristen Larson
+- Kirsten Larson (https://www.github.com/tigersrcool)
 - Linnea Larson
 - Trevor Moore
 - Geoffrey Novakowski
