@@ -30,7 +30,7 @@ Link to accounts for ECE382 students.
 - James Rasmussen
 - Travis Schriner
 - Jennae Steinmiller
-- Alex Strom
+- [Alex Strom](https://github.com/alexstrom)
 - Derek Titus
 - Andrew Tymchenko
 
