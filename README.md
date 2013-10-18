@@ -21,18 +21,18 @@ Link to accounts for ECE382 students.
 - [Nik Taormina](https://www.github.com/ntaormina)
 
 ## M7
-- Tramaine Barnett
+- [Tramaine Barnett](https://github.com/lilmaine)
 - Christopher Boulanger
 - Kristen Larson
 - Linnea Larson
-- Trevor Moore
+- [Trevor Moore](https://github.com/sleeprocking)
 - Geoffrey Novakowski
-- James Rasmussen
+- [James Rasmussen](https://github.com/Jsrazz)
 - Travis Schriner
-- Jennae Steinmiller
+- [Jennae Steinmiller](https://github.com/JennaeN)
 - [Alex Strom](https://github.com/alexstrom)
 - Derek Titus
-- Andrew Tymchenko
+- [Andrew Tymchenko](https://github.com/AndrewTymchenko)
 
 ## T4
 - Stefan Baron von Vietinghoff-Scheel
