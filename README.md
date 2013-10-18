@@ -29,7 +29,7 @@ Link to accounts for ECE382 students.
 - Geoffrey Novakowski
 - James Rasmussen
 - Travis Schriner
-- Jennae Steinmiller
+-{ Jennae Steinmiller](https://github.com/JennaeN)
 - Alex Strom
 - Derek Titus
 - Andrew Tymchenko
