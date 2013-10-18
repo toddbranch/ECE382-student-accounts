@@ -32,7 +32,7 @@ Link to accounts for ECE382 students.
 -[ Jennae Steinmiller](https://github.com/JennaeN)
 - Alex Strom
 - Derek Titus
-- Andrew Tymchenko
+- [Andrew Tymchenko](https://github.com/AndrewTymchenko)
 
 ## T4
 - Stefan Baron von Vietinghoff-Scheel
