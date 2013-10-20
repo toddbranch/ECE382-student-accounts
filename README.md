@@ -8,7 +8,7 @@ Link to accounts for ECE382 students.
 
 ## M4
 - Suzanne Baltar
-- Colin Busho
+- [Colin Busho](https://www.github.com/cbusho)
 - [James Dunn](https://www.github.com/James-Dunner)
 - [Gared Chapman](https://github.com/garedchapman)
 - [Ryan Good](https://github.com/GoodRyan)
