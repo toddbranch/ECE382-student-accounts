@@ -36,7 +36,7 @@ Link to accounts for ECE382 students.
 
 ## T4
 - Stefan Baron von Vietinghoff-Scheel
-- Brandon Belcher
+- [Brandon Belcher](https://github.com/babelcher)
 - [Michael Bentley](https://github.com/micfloy)
 - [Kevin Cooper](https://github.com/KevinCooper)
 - [Ryan Lamo](https://github.com/ryanlamo)
