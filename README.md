@@ -38,7 +38,7 @@ Link to accounts for ECE382 students.
 - Stefan Baron von Vietinghoff-Scheel
 - Brandon Belcher
 - Michael Bentley
-- Kevin Cooper
+- [Kevin Cooper](https://github.com/KevinCooper)
 - Ryan Lamo
 - John Miller(https://github.com/jahwnmallard)
 - Jason Mossing
