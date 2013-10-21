@@ -1,4 +1,4 @@
-ECE382-student-accounts
+ECE382-student-accounts 
 =======================
 
 Link to accounts for ECE382 students.
@@ -23,7 +23,7 @@ Link to accounts for ECE382 students.
 ## M7
 - Tramaine Barnett
 - Christopher Boulanger
-- Kirsten Larson
+- [Kirsten Larson](https://www.github.com/tigersrcool)
 - Linnea Larson
 - Trevor Moore
 - Geoffrey Novakowski
