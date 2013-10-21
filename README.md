@@ -1,4 +1,4 @@
-ECE382-student-accounts
+ECE382-student-accounts 
 =======================
 
 Link to accounts for ECE382 students.
@@ -23,7 +23,7 @@ Link to accounts for ECE382 students.
 ## M7
 - [Tramaine Barnett](https://github.com/lilmaine)
 - [Christopher Boulanger](https://www.github.com/crboulanger)
-- Kristen Larson
+- [Kirsten Larson](https://www.github.com/tigersrcool)
 - Linnea Larson
 - [Trevor Moore](https://github.com/sleeprocking)
 - [Geoffrey Novakowski](https://www.github.com/gnovakowski)
