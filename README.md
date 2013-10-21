@@ -24,7 +24,7 @@ Link to accounts for ECE382 students.
 - [Tramaine Barnett](https://github.com/lilmaine)
 - [Christopher Boulanger](https://www.github.com/crboulanger)
 - [Kirsten Larson](https://www.github.com/tigersrcool)
-- Linnea Larson
+- [Linnea Larson] (https://www.github.com/linnealarson)
 - [Trevor Moore](https://github.com/sleeprocking)
 - [Geoffrey Novakowski](https://www.github.com/gnovakowski)
 - [James Rasmussen](https://github.com/Jsrazz)
