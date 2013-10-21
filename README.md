@@ -39,7 +39,7 @@ Link to accounts for ECE382 students.
 - Brandon Belcher
 - [Michael Bentley](https://github.com/micfloy)
 - [Kevin Cooper](https://github.com/KevinCooper)
-- Ryan Lamo
+- [Ryan Lamo](https://github.com/ryanlamo)
 - [John Miller](https://github.com/jahwnmallard)
 - Jason Mossing
 - Craig O'Daniel
