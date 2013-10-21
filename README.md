@@ -24,7 +24,7 @@ Link to accounts for ECE382 students.
 - Tramaine Barnett
 - Christopher Boulanger
 - Kristen Larson
-- Linnea Larson
+- [Linnea Larson] (https://www.github.com/linnealarson)
 - Trevor Moore
 - Geoffrey Novakowski
 - James Rasmussen
