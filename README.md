@@ -43,6 +43,6 @@ Link to accounts for ECE382 students.
 - John Miller
 - Jason Mossing
 - Craig O'Daniel
-- Ryan Turner
+- [Ryan Turner](https://github.com/RyanTurnbomb)
 - Scout Wallace
 - Caleb Ziegler
