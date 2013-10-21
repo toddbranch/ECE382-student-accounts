@@ -40,7 +40,7 @@ Link to accounts for ECE382 students.
 - Michael Bentley
 - Kevin Cooper
 - Ryan Lamo
-- John Miller
+- John Miller(https://github.com/jahwnmallard)
 - Jason Mossing
 - Craig O'Daniel
 - Ryan Turner
