@@ -41,7 +41,7 @@ Link to accounts for ECE382 students.
 - [Kevin Cooper](https://github.com/KevinCooper)
 - [Ryan Lamo](https://github.com/ryanlamo)
 - [John Miller](https://github.com/jahwnmallard)
-- Jason Mossing
+- [Jason Mossing](https://github.com/jasonmossing15)
 - Craig O'Daniel
 - Ryan Turner
 - Scout Wallace
