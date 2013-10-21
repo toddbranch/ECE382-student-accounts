@@ -44,5 +44,5 @@ Link to accounts for ECE382 students.
 - [Jason Mossing](https://github.com/jasonmossing15)
 - Craig O'Daniel
 - Ryan Turner
-- Scout Wallace
+- [Scout Wallace](https://www.facebook.com/scouttww?fref=ts)
 - Caleb Ziegler
