@@ -45,4 +45,4 @@ Link to accounts for ECE382 students.
 - Craig O'Daniel
 - Ryan Turner
 - Scout Wallace
-- Caleb Ziegler
+- [Caleb Ziegler](https://github.com/czig)
