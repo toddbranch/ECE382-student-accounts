@@ -7,7 +7,7 @@ Link to accounts for ECE382 students.
 - [Dr George York](https://www.github.com/GeorgeYork)
 
 ## M4
-- Suzanne Baltar
+- [Suzanne Baltar](https://www.github.com/csbaltar)
 - [Colin Busho](https://www.github.com/cbusho)
 - [James Dunn](https://www.github.com/James-Dunner)
 - [Gared Chapman](https://github.com/garedchapman)
