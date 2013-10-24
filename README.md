@@ -14,7 +14,7 @@ Link to accounts for ECE382 students.
 - [Ryan Good](https://github.com/GoodRyan)
 - [Ryan Hub] (https://github.com/rhub92) 
 - [Payden McBee](https://www.github.com/Payden-McBee)
-- Kevan Mordan
+- [Kevan Mordan] (https://github.com/KingPuffin)
 - [Noel Nicolas](https://github.com/noelbnicolas)
 - [William Parks](https://www.github.com/WilliamParks)
 - Ethan Snyder
