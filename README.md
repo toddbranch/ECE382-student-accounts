@@ -17,7 +17,7 @@ Link to accounts for ECE382 students.
 - [Kevan Mordan] (https://github.com/KingPuffin)
 - [Noel Nicolas](https://github.com/noelbnicolas)
 - [William Parks](https://www.github.com/WilliamParks)
-- Ethan Snyder
+- [Ethan Snyder](https://www.github.com/donfitch1354)
 - [Nik Taormina](https://www.github.com/ntaormina)
 
 ## M7
