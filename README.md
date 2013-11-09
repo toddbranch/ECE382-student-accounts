@@ -35,14 +35,14 @@ Link to accounts for ECE382 students.
 - [Andrew Tymchenko](https://github.com/AndrewTymchenko)
 
 ## T4
-- Stefan Baron von Vietinghoff-Scheel
+- [Stefan Baron von Vietinghoff-Scheel](https://github.com/StefanBaron52)
 - [Brandon Belcher](https://github.com/babelcher)
 - [Michael Bentley](https://github.com/micfloy)
 - [Kevin Cooper](https://github.com/KevinCooper)
 - [Ryan Lamo](https://github.com/ryanlamo)
 - [John Miller](https://github.com/jahwnmallard)
 - [Jason Mossing](https://github.com/jasonmossing15)
-- Craig O'Daniel
+- [Craig O'Daniel](https://github.com/craigodaniel)
 - [Ryan Turner](https://github.com/RyanTurnbomb)
-- Scout Wallace
+- [Scout Wallace](https://github.com/scouticus)
 - [Caleb Ziegler](https://github.com/czig)
